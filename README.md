@@ -38,8 +38,6 @@ frontend, database, and software development skills.
 
 - Python
 - JavaScript
-- Java
-- C++
 - C
 
 ## 🎨 Frontend Development
